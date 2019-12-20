@@ -1,0 +1,48 @@
+-Field- ok
+Backgroundmusic
+Select
+Status
+Seedset
+harvest
+Reset
+
+-Factory-
+Backgroundmusic
+Select
+Productout
+Wrong
+
+-Feed Factory-
+Backgroundmusic
+Select
+Wrong
+Productout
+
+-Shop- ok
+Backgroundmusic
+Select
+Buy
+
+-Animal Farm-
+Backgroundmusic
+Select
+pig
+Chicken
+Cow
+Zombie
+
+-Order-ok
+Backgroundmusic
+Select
+notreach
+reach
+
+-Achievement- ok
+Backgroundmusic
+reach
+
+-Condition- ok
+levelup
+Exp
+Status
+
