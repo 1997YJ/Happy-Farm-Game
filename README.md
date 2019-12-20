@@ -6,7 +6,6 @@ Data Structures and Advanced Program Design Final Project
 
 ## 系統設計
 利用SDL這個跨平台函數庫製作而成，包含SDL2、SDL_Mixer、SDL_Images 
-Class:
 
 |Class|名稱|
 |---|---
