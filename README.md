@@ -1,6 +1,6 @@
-Happy-Farm-Game
-# Data Structures and Advanced Program Design Final Project
-============================================================
+#Happy-Farm-Game
+Data Structures and Advanced Program Design Final Project
+
 ## 程式架構
 ![](https://github.com/1997YJ/Happy-Farm-Game/blob/master/img/frame.png)
 
